@@ -19,7 +19,7 @@ msgstr ""
 
 #: formfields.py:12 validators.py:11
 msgid "Enter a valid phone number (\"e.g +411234567\")."
-msgstr "Mettez un numéro de téléphone valide (\"ex: +411234567\")."
+msgstr "Saisissez un numéro de téléphone valide."
 
 #: modelfields.py:45
 msgid "Phone number"
